@@ -1,13 +1,9 @@
 # Exp-1 ATM & BANKING SYSTEM
 
 # AIM:
-To study the problem statement ,SRS document and draw the UML diagram of library management system system.
+To study the problem statement ,SRS document and draw the UML diagram of atm and banking system.
 # SRS (Procedure):
-A Library Management System UML Diagram represents the design of how different components of a library interact. It typically includes several types of UML diagrams. Here's a simple explanation of each, along with the most important one: the Class Diagram. Use Case Diagram Shows actors and system functionalities. Actors: Librarian, Member Use Cases: Search Book, Issue Book, Return Book, Add Book, Remove Book, Pay Fine Sequence Diagram (Example: Book Issue Process) Shows object interactions in time sequence:
-
-Actor: Member
-
-Objects: Library System → Book → Borrower Activity Diagram Describes the flow of activities (like issuing a book). 47
+An ATM and Banking System UML Diagram represents the design of how different components of an ATM and a banking system interact. It includes various UML diagrams to model the system from different perspectives. The Use Case Diagram identifies the actors, such as Customer, Employee, Manager, and ATM, along with system functionalities like creating an account, checking balance, depositing money, withdrawing cash, transferring funds, changing PIN, applying for loans, and approving loans. The Sequence Diagram illustrates the order of interactions during a banking operation, such as a cash withdrawal, where the customer authenticates, requests a transaction, the bank verifies the request, and the ATM completes the operation. The Class Diagram, which is the most important, defines the system's static structure by showing classes such as Customer, Account, ATM, Bank, Employee, Manager, Transaction, and Loan, along with their attributes, methods, and relationships. Together, these UML diagrams provide a clear visual representation of the ATM and Banking System, making it easier to analyse, design, implement, and maintain the system effectively.
 
 List of Programs:
 
